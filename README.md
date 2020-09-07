@@ -1,2 +1,1 @@
-# rsschool-cv
-Repository for "Markdown &amp; Git" task at RS School
+https://nastja-igel.github.io/rsschool-cv/cv
