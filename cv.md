@@ -2,7 +2,8 @@ Anastasia Ilina
 ============
 
 -------------------     ----------------------------
-Saint Peterburg, Russia               
+Saint Peterburg
+Russia               
 89006525825  
 nastja.ilina@gmail.com                      
 -------------------     ----------------------------
@@ -11,19 +12,14 @@ Education
 ---------
 
 2013-2015
-:   **faculty**; University of ...(Town)
+:   **Philology**; Saint Petersburg State University, Russia
 
-    *Specialization*
-
-2013-2015
-:   **faculty**; University of ...(Town)
-
-    *Specialization*
+    *Master of computational linguistics
 
 2006-2013
-:   **faculty**; University of ...(Town)
+:   **Linguistics**; Saint Petersburg State University Of Economics, Russia
 
-    *Specialization*
+    *Translation and Interpreting
 
 Experience
 ----------
